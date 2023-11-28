@@ -6,7 +6,7 @@ A seguir é mostrado as soluções e o vídeo de teste em laboratório LEM-04 na
 ## Solução 01 - Utiliza uma ESP32 para comando de válvula eletropneumática e sensores fim de curso
 Link:https://www.youtube.com/watch?v=mEra2RuekDc
 ## Solução 02 - Utiliza duas ESP32 sendo uma para o comando da válvula eletropneumática e outra para os sensores fim de curso
-https://www.youtube.com/watch?v=Klcmhzi6RKE
+Link:https://www.youtube.com/watch?v=Klcmhzi6RKE
 
 A seguir encontra-se dois tutoriais para configuração do Node-RED e do Arduino IDE
 ## Configuração do Arduino IDE para ESP32
