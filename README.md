@@ -12,7 +12,7 @@ para conexão da ESP32 no redes sem fio da UFU bastará colocar nos campos  EAP_
 
 ![image](https://github.com/MAPL-UFU/MQTT_APP_Node-red/assets/36203529/6af8e5d6-6a9a-4c3c-9406-07faeec33fd4)
 
-Para redes externa a da UFU bastara preencher somente os campos EAP_PASSWORD e ssid e comentar os demais campos como mostra a firgura a seguir. Atenção este procedimento é válido somente para redes sem fio fora do dominio da UFU.
+Para redes externa a da UFU bastara preencher somente os campos EAP_PASSWORD e ssid e comentar os demais campos como mostra a figura a seguir. Atenção este procedimento é válido somente para redes sem fio fora do dominio da UFU.
 
 ![image](https://github.com/MAPL-UFU/MQTT_APP_Node-red/assets/36203529/aefb1c44-8e4f-40ef-970c-4b4ba78f46ac)
 
