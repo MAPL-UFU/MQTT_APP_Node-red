@@ -7,7 +7,7 @@ A seguir é mostrado as soluções e o vídeo de teste em laboratório LEM-04 na
 Link:https://www.youtube.com/watch?v=mEra2RuekDc
 ## Solução 02 - Utiliza duas ESP32 sendo uma para o comando da válvula eletropneumática e outra para os sensores fim de curso
 Link:https://www.youtube.com/watch?v=Klcmhzi6RKE
-## Conexão da ESP32 na WIFI da UFU
+## Conexão da ESP32 nas Redes Sem Fio da UFU
 para conexão da ESP32 no redes sem fio da UFU bastará colocar nos campos  EAP_IDENTITY e EAP_USERNAME no código o seu usuário e no campo EAP_PASSWORD a sua senha do e-mail institucional e também o nomem da rede que está se conectando no campo ssid e assim será possível a conexão com da ESP32 com a internet dentro da rede da UFU. a figura a seguir ilustra os campos acima citados.
 
 ![image](https://github.com/MAPL-UFU/MQTT_APP_Node-red/assets/36203529/6af8e5d6-6a9a-4c3c-9406-07faeec33fd4)
